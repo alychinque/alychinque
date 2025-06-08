@@ -20,9 +20,9 @@ fields_of_interests:
     "UI/UX",
   ]
   
-currently_learning: ["React Native"]
-2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies."]
-hobbies: ["Running", "Djing", "Comedy", "Festivals"]
+currently_learning: ["React"]
+2025 Goals: ["Pursuing Higher Diploma in Science in Computing."]
+hobbies: ["Running", "Djing", "Music Festivals"]
 ```
 <div align="center">
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
